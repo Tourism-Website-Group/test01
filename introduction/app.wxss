@@ -1,0 +1,5 @@
+/*14px-28rpx*/
+page{
+  font-size: 28rpx; 
+  font-family: microsoft yahei;
+}

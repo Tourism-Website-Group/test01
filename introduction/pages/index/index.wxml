@@ -1,0 +1,13 @@
+<view class="background">
+  <text style="font-weight: bold; font-size:60rpx">第x组成员名单</text>
+  <view class="xuanxiang">
+    <button type="primary">张宗源</button>
+    <button type="primary">李子豪</button>
+    <button type="primary">马明铄</button>
+    <button type="primary">黄远</button>
+    <navigator url="/pages/zb/about">
+      <button type="primary">赵博</button>
+    </navigator>
+    
+  </view>
+</view>

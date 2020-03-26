@@ -1,0 +1,32 @@
+.container {
+  background-color: rgb(228, 144, 144);
+  height: 100vh;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.about-banner {
+  width: 375rpx;
+  height: 375rpx;
+  border-radius: 50%;
+  margin-top: 100rpx;
+}
+
+.name{
+  margin-top: 50rpx;
+  display: flex;
+}
+
+.flex-column{
+  border-top: 2rpx solid #5e5e5e;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 250rpx;
+  font-size: 30rpx;
+  line-height: 60rpx;
+  text-align: center;
+}

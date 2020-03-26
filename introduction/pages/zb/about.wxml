@@ -1,0 +1,15 @@
+<view class="container">
+  <image class="about-banner"
+  src="/images/zb/self.jpg"></image>
+  <view class="name">
+    <text style="font-weight: bold; font-size: 60rpx">赵博</text>
+  </view>
+  
+  <view class="flex-column">
+    <text>2017级</text>
+    <text>17062219</text>
+    <text>应用数理学院</text>
+    <text>信息与计算科学专业</text>
+    <text>北京工业大学</text>
+  </view>
+</view>
